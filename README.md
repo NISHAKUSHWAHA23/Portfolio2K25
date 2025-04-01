@@ -31,4 +31,4 @@ A real-time tracking platform integrating COVID-19 API for accurate dose schedul
 
 🔗 My portfolio reflects my passion for building impactful, scalable, and intelligent applications. Let’s connect and innovate together! 🚀
 
-Link:
+Link:https://nishakushwaha23.github.io/Portfolio2K25/
